@@ -7,5 +7,6 @@ int main(){
 	for(int i=0;i<n;i++){
 		cout<<"Hello "<<i<<endl;
 	}
+	cout<<"Yeeeees!!!!!!!!!!!!!!!";
 	return 0;
 }
